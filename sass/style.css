@@ -1,0 +1,44 @@
+ol {
+  display: flex;
+  justify-content: space-evenly;
+}
+ol li {
+  list-style: none;
+}
+
+.header_nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+  width: 300px;
+  margin-left: 50px;
+}
+.header_nav h2 {
+  font-size: 60px;
+  margin-left: 300px;
+}
+.header_nav p {
+  font-size: 60px;
+}
+
+.header_loge {
+  display: flex;
+}
+
+.header_link h1 {
+  position: absolute;
+  margin-top: 50px;
+  opacity: 40%;
+  font-size: 50px;
+  margin-left: 300px;
+}
+.header_link p {
+  text-align: center;
+  width: 500px;
+  margin-left: 100px;
+}
+.header_link img {
+  height: 750px;
+  width: 800px;
+}/*# sourceMappingURL=style.css.map */
